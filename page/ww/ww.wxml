@@ -1,0 +1,7 @@
+<view class="search-cell">
+  <view class="ii">
+    <input class="input-search" placeholder="" value="{{inputVal}}" />
+    <icon class="icon" type='success' size='30' color='green'></icon>
+  </view>
+  <text class='text'></text>
+</view>
